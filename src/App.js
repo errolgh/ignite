@@ -3,7 +3,6 @@ import Home from './pages/Home'
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello Ignite</h1>
       <Home/>
     </div>
   );
@@ -11,4 +10,4 @@ export default function App() {
 
 // Chapter 6 - Ignite
 
-// 6.Fetching Other Games
+// 9. Global Styles (0:42)
